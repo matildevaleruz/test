@@ -8,4 +8,4 @@ Segunda prueba fallida
 
 [Carpeta aprendiendo python](a_python)
 
-1. [pruebas bucle](test\a_python\01-pruebas_bucle.ipynbhttps:/)
+1. [pruebas bucle](a_python\01-pruebas_bucle.ipynb)
